@@ -1,0 +1,33 @@
+﻿StoreCode,StoreName,StoreType,Location,OperatingCost,Staff_Cnt,TotalSales,Total_Customers,AcqCostPercust,BasketSize,ProfitPercust,OwnStore,OnlinePresence,Tenure,StoreSegment
+STR101,Electronics Zone,Electronincs,California,21,60,160,110,3.9,2.62,16.46,0,1,4,4
+STR102,Apparel Zone,Apparel,California,21,60,160,110,3.9,2.875,17.02,0,1,4,4
+STR103,Super Bazar,Super Market,California,22.8,40,108,93,3.85,2.32,18.61,1,1,4,1
+STR104,Super Market,Super Market,California,21.4,60,258,110,3.08,3.215,19.44,1,0,3,1
+STR105,Central Store,Super Market,California,18.7,80,360,175,3.15,3.44,17.02,0,0,3,2
+STR106,Apparel Zone,Apparel,California,18.1,60,225,105,2.76,3.46,20.22,1,0,3,1
+STR107,Fashion Bazar,Apparel,California,14.3,80,360,245,3.21,3.57,15.84,0,0,3,4
+STR108,Digital Bazar,Electronincs,California,24.4,40,146.7,62,3.69,3.19,20,1,0,4,2
+STR109,Electronics Zone,Electronincs,Washington,22.8,40,140.8,95,3.92,3.15,22.9,1,0,4,2
+STR110,Apparel Zone,Apparel,Washington,19.2,60,167.6,123,3.92,3.44,18.3,1,0,4,4
+STR111,Super Bazar,Super Market,Washington,17.8,60,167.6,123,3.92,3.44,18.9,1,0,4,4
+STR112,Super Market,Super Market,Washington,16.4,80,275.8,180,NaN,4.07,17.4,0,0,3,3
+STR113,Central Store,Super Market,Washington,17.3,80,275.8,180,NaN,3.73,17.6,0,0,3,3
+STR114,Apparel Zone,Apparel,Washington,15.2,80,275.8,180,NaN,3.78,18,0,0,3,3
+STR115,Fashion Bazar,Apparel,Washington,10.4,80,472,205,2.93,5.25,17.98,0,0,3,4
+STR116,Digital Bazar,Electronincs,Washington,10.4,80,460,215,3,5.424,17.82,0,0,3,4
+STR117,Electronics Zone,Electronincs,Texas,14.7,80,440,230,3.23,5.345,17.42,0,0,3,4
+STR118,Apparel Zone,Apparel,Texas,32.4,40,78.7,66,4.08,2.2,19.47,1,1,4,1
+STR119,Super Bazar,Super Market,Texas,30.4,40,75.7,52,4.93,1.615,18.52,1,1,4,2
+STR120,Super Market,Super Market,Texas,33.9,40,71.1,65,4.22,1.835,19.9,1,1,4,1
+STR121,Central Store,Super Market,Texas,21.5,40,120.1,97,3.7,2.465,20.01,1,0,3,1
+STR122,Apparel Zone,Apparel,Texas,15.5,80,318,150,2.76,3.52,16.87,0,0,3,2
+STR123,Fashion Bazar,Apparel,Texas,15.2,80,304,150,3.15,3.435,17.3,0,0,3,2
+STR124,Digital Bazar,Electronincs,Texas,13.3,80,350,245,3.73,3.84,15.41,0,0,3,4
+STR125,Electronics Zone,Electronincs,Montana,19.2,80,400,175,3.08,3.845,17.05,0,0,3,2
+STR126,Apparel Zone,Apparel,Montana,27.3,40,79,66,4.08,1.935,18.9,1,1,4,1
+STR127,Super Bazar,Super Market,Montana,26,40,120.3,91,4.43,2.14,16.7,0,1,5,2
+STR128,Super Market,Super Market,Montana,30.4,40,95.1,113,3.77,1.513,16.9,1,1,5,2
+STR129,Central Store,Super Market,Montana,15.8,80,351,264,4.22,3.17,14.5,0,1,5,4
+STR130,Apparel Zone,Apparel,Montana,19.7,60,145,175,3.62,2.77,15.5,0,1,5,4
+STR131,Fashion Bazar,Apparel,Montana,15,80,301,335,3.54,3.57,14.6,0,1,5,4
+STR132,Digital Bazar,Electronincs,Montana,21.4,40,121,109,4.11,2.78,18.6,1,1,4,2
